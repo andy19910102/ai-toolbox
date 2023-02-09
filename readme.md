@@ -14,6 +14,10 @@ Jasper is the AI Content Generator that helps you and your team break through cr
 
 Copy.ai is an AI-powered writing tool designed to help users generate high-quality written content. With the use of machine learning algorithms, the platform is able to analyze existing content and create new content in a similar style and tone. Users can input a prompt or topic, and the platform will generate copy in seconds, saving time and effort compared to manual writing. The generated content can then be edited and refined to fit the user's specific needs. Copy.ai is intended to be used for a variety of purposes, such as creating marketing copy, website content, social media posts, and more.
 
+### [Rytr](https://rytr.me)
+
+Rytr is an AI writing assistant that helps you create high-quality content, in just a few seconds, at a fraction of the cost!
+
 ## Graphic
 
 ### [Midjourney](https://www.midjourney.com)
