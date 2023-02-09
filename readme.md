@@ -18,6 +18,10 @@ Copy.ai is an AI-powered writing tool designed to help users generate high-quali
 
 Rytr is an AI writing assistant that helps you create high-quality content, in just a few seconds, at a fraction of the cost!
 
+### [Manychat](https://manychat.com/)
+
+Automate interactive conversations in Instagram Direct Messages, Facebook Messenger, and SMS to grow your brand.
+
 ## Graphic
 
 ### [Midjourney](https://www.midjourney.com)
